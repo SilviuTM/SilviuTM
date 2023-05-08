@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @SilviuTM (Shapeyman)
-- 👀 I’m interested in you.
-- 🌱 I’m currently learning how to impress you.
-- 💞️ I’m looking to collaborate on a child.
-- 📫 How to reach me: through my door.
+- 👀 I’m interested in money.
+- 🌱 I’m currently learning how to spend my free time.
+- 💞️ I’m looking to collaborate on a branch merge.
+- 📫 How to reach me: \
+          -> Discord : Silviu#0112 \
+          -> Email:    silviutudor24@gmail.com
 
 <!---
 SilviuTM/SilviuTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
