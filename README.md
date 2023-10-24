@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to spend my free time.
 - 💞️ I’m looking to collaborate on a branch merge.
 - 📫 How to reach me: \
-          -> Discord : Silviu#0112 \
+          -> Discord : shapeyman \
           -> Email:    silviutudor24@gmail.com
 
 <!---
